@@ -1,0 +1,3 @@
+- fps cap
+- resolution
+- rury przesuwają się migająco, rwanie nieco, może lepiej wywołać w pętli pare razy przesunięcia, ale o mniejsze dystanse?
